@@ -1,0 +1,10 @@
+.margin {
+    margin-top: 10px;
+    margin-left: 12px;
+    margin-right: 14px;
+    margin-bottom: 16px;
+  }
+  
+.margin2 {
+     margin: 10px 14px 16px 12px;
+  }

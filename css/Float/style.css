@@ -1,0 +1,12 @@
+.float {
+background-color: aqua;
+float: left;
+}
+.float2 {
+background-color: blueviolet;
+float: right;
+}
+.float3 {
+background-color: darkolivegreen;
+clear: both;
+}

@@ -1,0 +1,13 @@
+.Position {
+background-color: aqua;
+position: absolute;
+top: 200px;
+left: 400px;
+z-index: 1;
+}
+.Position2 {
+background-color: blueviolet;
+position: relative;
+top: 190px;
+left: 380px;
+}
